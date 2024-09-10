@@ -5,3 +5,4 @@
 * [C++17 - The Complete Guide](https://www.cppstd17.com/)
 * [Compiler support for C++17](https://en.cppreference.com/w/cpp/compiler_support/17)
 * [C++ Standards Support in GCC](https://gcc.gnu.org/projects/cxx-status.html)
+* [C++ Support in Clang](https://clang.llvm.org/cxx_status.html)
